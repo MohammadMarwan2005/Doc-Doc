@@ -20,4 +20,4 @@ I've learned a lot through building this app, including authentication processes
 
 - APK Link: [Here](https://drive.google.com/file/d/10YWtS-TW3Y4EJ16-gOeLltr2KPvQXv-j/view?usp=drive_link)
 #
-![Docdoc Overview](https://github.com/user-attachments/assets/e55b987d-6885-4196-939a-e9340c56b5cc)
+![Docdoc Overview (2)](https://github.com/user-attachments/assets/e9ef691b-c14b-48ce-9621-d922025927f6)
