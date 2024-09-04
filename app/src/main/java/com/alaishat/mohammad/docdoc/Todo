@@ -1,0 +1,87 @@
+// Todos:
+
+1. Show Profile:
+    a. UI
+    b. api service get method
+2. Update Profile:
+    a. UI
+    b. api service post method
+3. Home:
+    a. UI
+    b. api service get method
+4. logout
+
+5. filter fixing, it should be disable at default.
+
+6. refactor the project:
+    a. remove all [, log.d, comments, etc]
+    b. translate it
+
+7. Navigation fixing: Don't navigate to a view two times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------
+Features:
+1. All Appointments done
+2. Doctor Search    done
+3. Filter by city   canceled
+4. User Profile (Show and Edit) todo
+Also:
+5. Error Handling
+6. Connectivity State...
+----------------------
+Shaghilni: 1. host, 2. make the git commits pro.
+
+// Learn:
+1. comment multi line; ctrl + shift + /
+2. hide all windows: Alt + H
+3. method declaration: ctrl + Q
+4. all actions ctrl + shift + A
